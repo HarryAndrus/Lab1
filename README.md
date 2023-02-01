@@ -1,2 +1,2 @@
 # Lab1
-# Joshua MAy
+# Joshua May
